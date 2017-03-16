@@ -17,6 +17,8 @@ Hope you like this game! If you find any bugs, please report them to me via the 
 
 Check out my profile @Github!
 
+You can either download the Monopoly1.0-Script.txt and change the extension to a .bas file and add it to your QB folder or just directly download the Monopoly1.0.bas file, add it to the QB folder and run it; the choice is yours!
+
 Compatibility:
 
 qbasic qb64 v1.1 & above
