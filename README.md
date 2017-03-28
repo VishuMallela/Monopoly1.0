@@ -18,3 +18,8 @@ Hope you like this game! If you find any bugs, please report them to me via the 
 Check out my profile @Github!
 
 Just download Monopoly1.0.bas, add it to your QBasic folder and run it (View Compatibility)
+
+To check compatibility, view http://bit.ly/mpolycompa
+To check current glitches and issues, view http://bit.ly/Mpolyissues
+
+Download QBasic at http://qb64.net
