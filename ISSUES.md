@@ -2,7 +2,7 @@ READ TO KNOW ERRORS
 
 As of now, we have very few glitches due to:
 
-Code Limitations
+Code Limitations--
 QBasic is a very outdated programming language. It does not submit multi-threading. This restricts
 Exitting in-game: Due to this limitation, you cannot leave the game whenever you want. You need to reach certain checkpoints to temporarily possess the ability to save and leave the game.
 
