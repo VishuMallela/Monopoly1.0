@@ -18,4 +18,4 @@ Requires Xcode Developers Tool (MacOS Yosemite and above)
 
 Requires Xcode + Xcode Developers command line tool (OSX Mountain Lion and below)
 
-Find out more about versions at qb64.net
+Find out more about versions at http://qb64.net
