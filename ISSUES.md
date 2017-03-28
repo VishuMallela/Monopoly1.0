@@ -14,4 +14,4 @@ While raising an issue, please mention the following:
 3. Did the program, QBasic or your computer crash or freeze?
 4. Your computer's manufacturer, RAM, VRAM and Sound Card along with the OS you were using.
 
-Fixing this program's glitches/ improving features is one of my biggest concerns. I will try to do my best and fix it ASAP.
+Fixing this program's glitches/ improving features iTs one of my biggest concerns. I will try to do my best and fix it ASAP.
