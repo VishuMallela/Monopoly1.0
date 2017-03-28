@@ -2,7 +2,7 @@ Compatibility:
 
 Please view the requirements to run Monopoly1.0.bas
 
-Requires qbasic qb64 v1.1 & above
+Requires qbasic qb64 v1.1 or above
 
 Windows 7 or above / MacOS Mountain Lion or above / Ubuntu (Supports all versions)
 
